@@ -9,4 +9,5 @@ Please refer to https://github.com/ubports/porting-notes/wiki/Halium-9 for more 
 At present(May 2020) X2 boots up with the uploaded boot img file with LOS, Baikal or CBG MIUI11-Global P vendors.Please be 
 aware that bugs are aplenty and unstable as each reboot results in different device profile. One may find what worked once
 does not work on reboot.
-For some reason roomservice.xml(local manifest) did not work to sync device repo and was done manually.
+Create a directory "local_manifests" under <parent_dir>/.repo and copy local_manifests.xml for LineageOS 16.0 repo sync. Else
+do manually.
