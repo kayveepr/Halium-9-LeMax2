@@ -1,4 +1,4 @@
-# H9
+# Halium 9 on Le Max 2 aka X2
 WIP for H9
 
 This is a work in progress at infancy Halium 9 porting to LeEco X2. This is not a standalone porting but depends on 
