@@ -11,3 +11,4 @@ aware that bugs are aplenty and unstable as each reboot results in different dev
 does not work on reboot.
 Create a directory "local_manifests" under <parent_dir>/.repo and copy local_manifests.xml for LineageOS 16.0 repo sync. Else
 do manually.
+"apparmor" as default security. GPS tested working well with webapps requesting for permission to use.
