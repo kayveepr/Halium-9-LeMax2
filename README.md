@@ -6,7 +6,7 @@ LineageOS 16.0 repos and Erfanoabdi's ubports GSI installer.
 
 Please refer to https://github.com/ubports/porting-notes/wiki/Halium-9 for more information.
 
-At present(Jun 2020) X2 boots up with the uploaded boot img file with LineageOS, Baikal or CBG MIUI11-Global for X2 all P vendors.Please be aware that bugs are aplenty.
+At present(Jun 2020) X2 boots up with the uploaded boot img file with AEX, AOSiP, LineageOS, Baikal or CBG MIUI11-Global for X2 all P vendors.Please be aware that bugs are aplenty.
 
 With LineageOS P vendor - only one SIM on slot 1 detected. Both data and calls work on SIM with 2G/3G fallback. With exclusive 4G SIM only data works. No ringtone only vibrate. GPS works. Screen rotation works other way around. Power button sleep and light sensor do not work.
 
