@@ -34,7 +34,7 @@ Requirements:
 4. Backup your existing data/ROM, boot to TWRP - wipe data. One may optionally wipe all on reboot to recovery.
 5. Install AEX P or any mentioned P ROMs. No need to reboot.
 6. Insatll GSI zip.
-7. Reboot to bootloader and install halium-boot.img via fastboot flash boot halium-boot.img giveing appropriate path to wherever the boot img file is,
+7. Reboot to bootloader and install halium-boot.img via "fastboot flash boot halium-boot.img" command(without quotes) giving appropriate path to wherever the boot img file is,
 8. Reboot.
 
-Pleas note it is WIP and adb sideload works well for both P and GSI zip so that one can avoid transferring files to device. Theoratically halium-boot.img, ubports-GSI zip file and P Vendor img file are good enoigh to boot and try Halium 9 GSI on X2. Please note that all P ROM or vendor img work on X2 and hence use only what has been mentioned here. This notwithstanding one may find logcat filled with errors for FP and Camera.
+Pleas note it is WIP and adb sideload works well for both P and GSI zip so that one can avoid transferring files to device after wipe. Theoratically halium-boot.img, ubports-GSI zip file and P Vendor img file are good enoigh to boot and try Halium 9 GSI on X2. Please note that all P ROMs or vendor img files work on X2 and hence use only what has been mentioned here. This notwithstanding one may find logcat filled with errors for FP and Camera.
