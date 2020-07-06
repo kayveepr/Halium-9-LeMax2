@@ -24,6 +24,8 @@ Create a directory "local_manifests" under <parent_dir>/.repo and copy local_man
 
 Installation Instructions:
 
+Disclaimer: Sincerely hope the X2 device anyone tries Halium 9 on X2 as given here does not get bricked. Should that happen please bear in mind that anyone tries Halium 9 on X2 as given here does so at his/her own risk.
+
 Requirements:
 
 1. TWRP 3.3.1-0 for X2 downloadable from https://dl.twrp.me/x2/. 3.4.0-0 should work too.
@@ -35,4 +37,6 @@ Requirements:
 7. Reboot to bootloader and install halium-boot.img via "fastboot flash boot halium-boot.img" command(without quotes) giving appropriate path to wherever the boot img file is,
 8. Reboot.
 
-Pleas note it is WIP and adb sideload works well for both P and GSI zip so that one can avoid transferring files to device after wipe. Theoratically halium-boot.img, ubports-GSI zip file and P Vendor img file are good enoigh to boot and try Halium 9 GSI on X2. Please note that "not" all P ROMs or vendor img files work on X2 and hence use only what has been mentioned here. This notwithstanding one may find logcat filled with errors for FP and Camera.
+Pleas note it is WIP and adb sideload is preferred for both P and GSI zip so that one can avoid transferring files to device after wipe. Theoratically halium-boot.img, ubports-GSI zip file and P Vendor img file are good enoigh to boot and try Halium 9 GSI on X2. Please note that "not" all P ROMs or vendor img files work on X2 and hence use only what has been mentioned here. This notwithstanding one may find logcat filled with errors for FP and Camera.
+
+All credits go to Erfanoabdi(GSI), Marc(LineageOS source and other guidance), andr68rus(BaikalOS), CBG(MIUI P Global for X2), shivatejapeddi(AEX).
