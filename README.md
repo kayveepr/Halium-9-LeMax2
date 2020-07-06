@@ -39,4 +39,4 @@ Requirements:
 
 Pleas note it is WIP and adb sideload is preferred for both P and GSI zip so that one can avoid transferring files to device after wipe. Theoratically halium-boot.img, ubports-GSI zip file and P Vendor img file are good enoigh to boot and try Halium 9 GSI on X2. Please note that "not" all P ROMs or vendor img files work on X2 and hence use only what has been mentioned here. This notwithstanding one may find logcat filled with errors for FP and Camera.
 
-All credits go to Erfanoabdi(GSI), Marc(LineageOS source and other guidance), andr68rus(BaikalOS), CBG(MIUI P Global for X2), shivatejapeddi(AEX).
+All credits go to Erfanoabdi(GSI), Marc(LineageOS source and other guidance), andr68rus(BaikalOS), CBG(MIUI P Global for X2), shivatejapeddi(AEX). moto999999(AOSiP).
