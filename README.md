@@ -42,6 +42,7 @@ Method 1:
 Method 2: 
 
 TWRP requirement is the same. If AEX download is not available a vendor image is available at https://drive.google.com/file/d/19CNi5ZkYKX3CiQg3jfuIobS6EEK16Plx/view?usp=sharing
+
 Backup all your data for return.
           
 1. Install GSI as mentioned above.
