@@ -48,8 +48,8 @@ Backup all your data for return.
 1. Install GSI as mentioned above.
 2. Reboot to bootloader.
 3. Use fastboot to install boot and vendor images to respective partitions as below:
-   A. fastboot flash vendor AEX_Vendor.img
-   B. fastboot flash boot halium-boot.img
+   A. fastboot flash boot halium-boot.img
+   B. fastboot flash vendor AEX_Vendor.img
 4. Reboot.
 
 
