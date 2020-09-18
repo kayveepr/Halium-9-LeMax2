@@ -6,17 +6,19 @@ LineageOS 16.0 repos and Erfanoabdi's ubports GSI installer.
 
 Please refer to https://github.com/ubports/porting-notes/wiki/Halium-9 for more information.
 
+Create a directory "local_manifests" under <parent_dir>/.repo and copy local_manifests.xml for LineageOS 16.0 repo sync. Else do manually.
+
+"apparmor" as default security. 
+
 At present(Jun 2020) X2 boots up with the uploaded boot img file with AEX, AOSiP, LineageOS, Baikal or CBG MIUI11-Global for X2 all P vendors.Please be aware that bugs are aplenty. Common issues are Camera, FP and magnetometer.
 
 Issues: 
 
 In all cases GPS works. Whereever both SIMs are detected data works from LTE SIM from slot 1. For calls use a SIm with 2G/3G fallback as VoLTE does not work.
 
-AEX P - Both SIMs detected, in-call audio works, light, gyro, GPS and Camera(says 15MP/6MP for back/front cams), auto-brightness, sleep/wake via Power button. Rin on call buggy.
+Update Sep 2020:
 
-Create a directory "local_manifests" under <parent_dir>/.repo and copy local_manifests.xml for LineageOS 16.0 repo sync. Else do manually.
-
-"apparmor" as default security. GPS tested working well with webapps requesting for permission to use.
+AEX P - Both SIMs detected, in-call audio works, light, gyro, GPS and Camera(says 15MP/6MP for back/front cams), auto-brightness, sleep/wake via Power button. Ring on call buggy.
 
 Installation Instructions:
 
