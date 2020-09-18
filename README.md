@@ -18,6 +18,8 @@ In all cases GPS works. Whereever both SIMs are detected data works from LTE SIM
 
 Update Sep 2020:
 
+Base ROM used AEX P.
+
 AEX P - Both SIMs detected, in-call audio works, light, gyro, GPS and Camera(says 15MP/6MP for back/front cams), auto-brightness, sleep/wake via Power button. Ring on call buggy.
 
 Installation Instructions:
