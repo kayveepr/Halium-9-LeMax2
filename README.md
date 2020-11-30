@@ -10,7 +10,7 @@ Create a directory "local_manifests" under <parent_dir>/.repo and copy local_man
 
 "apparmor" as default security. 
 
-At present(Jun 2020) X2 boots up with the uploaded boot img file with AEX, AOSiP, LineageOS, Baikal or CBG MIUI11-Global for X2 all P vendors.Please be aware that bugs are aplenty. Common issues are Camera, FP and magnetometer.
+Jun 2020 -  X2 boots up with the uploaded boot img file with AEX, AOSiP, LineageOS, Baikal or CBG MIUI11-Global for X2 all P vendors.Please be aware that bugs are aplenty. Common issues are Camera, FP and magnetometer. See Sep 2020 update below.
 
 Issues: 
 
@@ -53,7 +53,7 @@ Backup all your data for return.
 4. Reboot.
 
 
-Pleas note it is WIP and adb sideload is preferred for both P and GSI zip so that one can avoid transferring files to device after wipe. Theoratically halium-boot.img, ubports-GSI zip file and P Vendor img file are good enough to boot and try Halium 9 GSI on X2. Please note that "not" all P ROMs or vendor img files work on X2 and hence use only what has been mentioned here. This notwithstanding one may find logcat filled with errors for FP and Camera.
+Pleas note it is WIP and adb sideload is preferred for both P and GSI zip so that one can avoid transferring files to device after wipe. Theoratically halium-boot.img, ubports-GSI zip file and P Vendor img files are good enough to boot and try Halium 9 GSI on X2. Please note that "not" all P ROMs or vendor img files work on X2 and hence use only what has been mentioned here. This notwithstanding one may find logcat filled with errors for FP and Camera.
 
 For cameras to work - On CBG MIUI vendor copy over libbinder.so and libcutils.so to /vendor/lib from /system/lib. And for AEX vendor in addition to these two files vendor.qti.hardware.camera.device@1.0.so is also required.
 
