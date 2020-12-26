@@ -8,6 +8,8 @@ Please refer to https://github.com/ubports/porting-notes/wiki/Halium-9 for more 
 
 Create a directory "local_manifests" under <parent_dir>/.repo and copy local_manifests.xml for LineageOS 16.0 repo sync. Else do manually.
 
+LineageOS, MIUI, BaikalOS, AOSiP, AEX all P ROMs for Le Max 2 have been used to check proper functionality of X2 under Halium 9.
+
 "apparmor" as default security. 
 
 Issues: 
