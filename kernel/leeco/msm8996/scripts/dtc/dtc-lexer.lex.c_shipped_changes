@@ -1,3 +1,3 @@
-Changes made to dtc-lexer.lex.c_shipped file under /helium/kernel/leeco/msm8996/scripts/dtc directory due to mutilple declarations 
+Changes made to dtc-lexer.lex.c_shipped file under <halium 9 home directory>/kernel/leeco/msm8996/scripts/dtc directory due to mutilple declarations 
 of "yylloc" leading to make failing. See lines 640 - 645 for changes. Refer to 
 https://lore.kernel.org/stable/20200331192515.GA39354@ubuntu-m2-xlarge-x86/ for more info.
