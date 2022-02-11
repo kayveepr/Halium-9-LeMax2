@@ -32,7 +32,7 @@ Method 1:
 
 1. TWRP 3.3.1-0 for X2 downloadable from https://dl.twrp.me/x2/. 3.4.0-0 too works.
 2. Download AEX P ROM for X2 from https://downloads.aospextended.com/download/x2/pie/AospExtended-v6.6-x2-20190728-1658-OFFICIAL.zip. This is a no GApps one.
-3. Download Halium 9 GSI from Erfanoabdi's - https://build.lolinet.com/file/halium/GSI/ubports_GSI_installer_v9.zip - as tested.
+3. Download Halium 9 GSI from Erfanoabdi's - https://build.lolinet.com/file/halium/GSI/ubports_GSI_installer_v10.zip - as tested.
 4. Backup your existing data/ROM, boot to TWRP - wipe data. One may optionally wipe all on reboot to recovery.
 5. Install AEX P or any mentioned P ROMs. No need to reboot.
 6. Insatll GSI zip.
